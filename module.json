@@ -1,0 +1,44 @@
+{
+   "id":"den-branda-jorden",
+   "title":"Den brända jorden",
+   "description":"Äventyrsmodul - Endast för personligt bruk",
+   "url":"https://github.com/perssonkrister/den-branda-jorden",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/den-branda-jorden/master/module.json",
+   "download":"https://github.com/perssonkrister/den-branda-jorden/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.2",
+               "verified":"1.9.4"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Den brända jorden",
+         "name":"den-branda-jorden",
+         "path":"./packs/den-branda-jorden.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/den-branda-jorden/img/Cover_image.jpg"
+      }
+   ]
+}
