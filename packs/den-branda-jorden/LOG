@@ -1,15 +1,15 @@
-2025/01/26-20:37:27.720 2738 Recovering log #4
-2025/01/26-20:37:27.733 2738 Delete type=0 #4
-2025/01/26-20:37:27.733 2738 Delete type=3 #2
-2025/01/26-20:40:01.817 7158 Level-0 table #9: started
-2025/01/26-20:40:01.828 7158 Level-0 table #9: 1233 bytes OK
-2025/01/26-20:40:01.830 7158 Delete type=0 #7
-2025/01/26-20:40:01.835 7158 Manual compaction at level-0 from '!adventures!ng4lCS2QEVu3fhXD' @ 72057594037927935 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at (end)
-2025/01/26-20:40:01.841 7158 Manual compaction at level-1 from '!adventures!ng4lCS2QEVu3fhXD' @ 72057594037927935 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at '!adventures!ng4lCS2QEVu3fhXD' @ 3 : 1
-2025/01/26-20:40:01.841 7158 Compacting 1@1 + 1@2 files
-2025/01/26-20:40:01.844 7158 Generated table #10@1: 1 keys, 1233 bytes
-2025/01/26-20:40:01.844 7158 Compacted 1@1 + 1@2 files => 1233 bytes
-2025/01/26-20:40:01.845 7158 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/01/26-20:40:01.846 7158 Delete type=2 #5
-2025/01/26-20:40:01.846 7158 Delete type=2 #9
-2025/01/26-20:40:01.849 7158 Manual compaction at level-1 from '!adventures!ng4lCS2QEVu3fhXD' @ 3 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at (end)
+2025/01/26-21:12:09.039 3ea0 Recovering log #8
+2025/01/26-21:12:09.046 3ea0 Delete type=0 #8
+2025/01/26-21:12:09.046 3ea0 Delete type=3 #6
+2025/01/26-22:19:31.755 7158 Level-0 table #14: started
+2025/01/26-22:19:31.760 7158 Level-0 table #14: 20091 bytes OK
+2025/01/26-22:19:31.762 7158 Delete type=0 #12
+2025/01/26-22:19:31.767 7158 Manual compaction at level-0 from '!adventures!ng4lCS2QEVu3fhXD' @ 72057594037927935 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at (end)
+2025/01/26-22:19:31.768 7158 Manual compaction at level-1 from '!adventures!ng4lCS2QEVu3fhXD' @ 72057594037927935 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at '!adventures!ng4lCS2QEVu3fhXD' @ 4 : 1
+2025/01/26-22:19:31.768 7158 Compacting 1@1 + 1@2 files
+2025/01/26-22:19:31.774 7158 Generated table #15@1: 1 keys, 20091 bytes
+2025/01/26-22:19:31.774 7158 Compacted 1@1 + 1@2 files => 20091 bytes
+2025/01/26-22:19:31.775 7158 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/26-22:19:31.776 7158 Delete type=2 #10
+2025/01/26-22:19:31.776 7158 Delete type=2 #14
+2025/01/26-22:19:31.781 7158 Manual compaction at level-1 from '!adventures!ng4lCS2QEVu3fhXD' @ 4 : 1 .. '!adventures!ng4lCS2QEVu3fhXD' @ 0 : 0; will stop at (end)
