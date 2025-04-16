@@ -2,9 +2,9 @@
    "id":"den-branda-jorden",
    "title":"Den brända jorden",
    "description":"Den brända jorden - Lehto Spel & Media",
-   "url":"https://github.com/perssonkrister/den-branda-jorden",
-   "manifest":"https://raw.githubusercontent.com/perssonkrister/den-branda-jorden/master/module.json",
-   "download":"https://github.com/perssonkrister/den-branda-jorden/archive/master.zip",
+   "url":"https://github.com/Rangertheman/den-branda-jorden",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/den-branda-jorden/master/module.json",
+   "download":"https://github.com/Rangertheman/den-branda-jorden/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.12",
+   "version":"0.0.13",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
